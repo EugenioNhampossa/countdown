@@ -1,0 +1,26 @@
+*,
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-image: linear-gradient(
+    to left bottom,
+    #8257e5,
+    #5949af,
+    #3a3879,
+    #242544,
+    #121214
+  );
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.title {
+  color: white;
+}
